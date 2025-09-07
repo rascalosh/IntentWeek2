@@ -8,5 +8,8 @@ code!</string>
 digits!</string>
     <string name="color_code_result_message">Color code #%s is applied!</string>
     <string name="color_code_input_invalid">Color code is invalid!</string>
+    <string name="error_invalid_color_code">Invalid color code entered.</string>
+    <string name="error_color_code_empty">Color code cannot be empty.</string>
     <string name="submit_button">SUBMIT</string>
+    <string name="go_back_button_text">Back</string>
 </resources>
